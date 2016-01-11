@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.0.10.7
+- http://www.phpmyadmin.net
+-
+- Servidor: localhost:3306
+- Tiempo de generación: 06-11-2015 a las 20:06:16
+- Versión del servidor: 5.5.46-cll
+- Versión de PHP: 5.4.31
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="http://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="todotele_pbd" collation="latin1_swedish_ci" charset="latin1">
+            <pma:table name="contact">
+                CREATE TABLE `contact` (
+                  `id` int(10) NOT NULL AUTO_INCREMENT,
+                  `nombre` varchar(50) DEFAULT NULL,
+                  `apellido1` varchar(50) DEFAULT NULL,
+                  `apellido2` varchar(50) DEFAULT NULL,
+                  `telefono` varchar(9) DEFAULT NULL,
+                  `email` varchar(50) DEFAULT NULL,
+                  `imagen` varchar(200) DEFAULT NULL,
+                  PRIMARY KEY (`id`)
+                ) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=latin1;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Base de datos: 'todotele_pbd'
+    -->
+    <database name="todotele_pbd">
+        <!-- Tabla contact -->
+        <table name="contact">
+            <column name="id">5</column>
+            <column name="nombre"></column>
+            <column name="apellido1"></column>
+            <column name="apellido2"></column>
+            <column name="telefono"></column>
+            <column name="email"></column>
+            <column name="imagen"></column>
+        </table>
+        <table name="contact">
+            <column name="id">7</column>
+            <column name="nombre"></column>
+            <column name="apellido1"></column>
+            <column name="apellido2"></column>
+            <column name="telefono"></column>
+            <column name="email"></column>
+            <column name="imagen"></column>
+        </table>
+        <table name="contact">
+            <column name="id">13</column>
+            <column name="nombre">Jacobo</column>
+            <column name="apellido1">Conejo</column>
+            <column name="apellido2">Lima</column>
+            <column name="telefono">666767782</column>
+            <column name="email">jacobo@example.com</column>
+            <column name="imagen">http://unsplash.it/1000/1000?image=3</column>
+        </table>
+    </database>
+</pma_xml_export>

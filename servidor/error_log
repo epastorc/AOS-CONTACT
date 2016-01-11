@@ -1,0 +1,35 @@
+[21-Oct-2015 10:29:08 Europe/Madrid] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'todotele_bd'@'localhost' (using password: YES) in /home/todotele/public_html/pbd/servidor/app.php on line 71
+[21-Oct-2015 10:29:48 Europe/Madrid] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'todotele_bd'@'localhost' (using password: YES) in /home/todotele/public_html/pbd/servidor/app.php on line 71
+[21-Oct-2015 10:30:04 Europe/Madrid] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'todotele_bd'@'localhost' (using password: YES) in /home/todotele/public_html/pbd/servidor/app.php on line 71
+[21-Oct-2015 10:33:51 Europe/Madrid] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'todotele_pbd'@'localhost' to database 'todotele_pbd' in /home/todotele/public_html/pbd/servidor/app.php on line 71
+[21-Oct-2015 10:33:51 Europe/Madrid] PHP Fatal error:  Call to a member function query() on a non-object in /home/todotele/public_html/pbd/servidor/app.php on line 94
+[21-Oct-2015 10:34:05 Europe/Madrid] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'todotele_pbd'@'localhost' to database 'todotele_pbd' in /home/todotele/public_html/pbd/servidor/app.php on line 71
+[06-Nov-2015 17:50:53 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[06-Nov-2015 17:50:53 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[06-Nov-2015 17:50:59 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[06-Nov-2015 17:51:08 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[06-Nov-2015 20:08:24 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[06-Nov-2015 22:42:14 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[06-Nov-2015 22:42:19 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[06-Nov-2015 22:42:24 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[07-Nov-2015 00:10:13 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[07-Nov-2015 00:10:20 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:41:02 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:41:07 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:41:37 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:41:39 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:41:41 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:41:43 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:43:27 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:45:09 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:45:20 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:48:37 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:49:17 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:49:46 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:49:57 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:50:19 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:50:32 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:50:59 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:52:03 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:52:46 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
+[09-Nov-2015 21:53:16 Europe/Madrid] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/todotele/public_html/pbd/servidor/app.php on line 150
